@@ -4,6 +4,7 @@
 
 - Install node version 24 (https://nodejs.org/en/download)
 - Install pnpm version 11 (https://pnpm.io/)
+- Install git version 2.5 (https://git-scm.com/install/mac)
 
 # Installation
 
