@@ -4,7 +4,14 @@
 
 - Install node version 24 (https://nodejs.org/en/download)
 - Install pnpm version 11 (https://pnpm.io/)
-- Run `pnpm install`
+
+# Installation
+
+- `git clone https://github.com/eric-sison/ITE_131_cpu_sim.git`
+- `cd ITE_131_cpu_sim`
+- `code .`
+- `pnpm install`
+- `pnpm dev`
 
 Two CPU visualisers for ITE131 lectures, served from one app and switched with
 the tabs at the top:
